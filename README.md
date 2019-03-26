@@ -9,4 +9,3 @@ Cette application comprend :
 - Appel WebService à une API Rest
 - Stockage des données en cache
 - Animation entre ecrans
--
